@@ -1,0 +1,100 @@
+[ {
+  "baseItem" : {
+    "id" : "_5wHQoNq-EeyvyaEzrvgPpQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_O1v4gNq9EeyvyaEzrvgPpQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_O1v4gNq9EeyvyaEzrvgPpQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_FjnhcNqfEeyvyaEzrvgPpQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_GxmO8NqIEeyjV7F7-0AV0Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_hG2g4NqHEeyjV7F7-0AV0Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_hG2g4NqHEeyjV7F7-0AV0Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_eH_rANrzEeySGeH39I-yYQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0satoNsIEeySGeH39I-yYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_O1v4gNq9EeyvyaEzrvgPpQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_0satoNsIEeySGeH39I-yYQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_O1v4gNq9EeyvyaEzrvgPpQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

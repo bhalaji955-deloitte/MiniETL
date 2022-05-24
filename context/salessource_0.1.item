@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_yVKacNqcEeyvyaEzrvgPpQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_yVKacdqcEeyvyaEzrvgPpQ" comment="" name="salessource_FieldSeparator" prompt="salessource_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;"/>
+  <contextParameter xmi:id="_yVKactqcEeyvyaEzrvgPpQ" comment="" name="salessource_Encoding" prompt="salessource_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_yVKac9qcEeyvyaEzrvgPpQ" comment="" name="salessource_RowSeparator" prompt="salessource_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;"/>
+  <contextParameter xmi:id="_yVKadNqcEeyvyaEzrvgPpQ" comment="" name="salessource_File" prompt="salessource_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Talend/Salesdata.csv"/>
+  <contextParameter xmi:id="_yVKaddqcEeyvyaEzrvgPpQ" comment="" name="salessource_Header" prompt="salessource_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+</talendfile:ContextType>
